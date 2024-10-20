@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class ZooManagement {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Entrez le nombre des cage : ");
